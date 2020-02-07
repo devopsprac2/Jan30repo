@@ -1,5 +1,12 @@
 new file is added
+<<<<<<< HEAD
 mmmmm
 nnnnn
 ooooo
 ppppp
+=======
+12345
+6789
+aaaa
+bbbb
+>>>>>>> devbranch
