@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 123456
 testbranch is added
+=======
+devbranch added
+>>>>>>> devbranch
